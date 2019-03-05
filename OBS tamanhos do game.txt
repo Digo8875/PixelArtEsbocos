@@ -1,0 +1,32 @@
+personagem base
+
+|
+|
+|
+| 136px
+|
+|
+|
+|     32px
+|------------
+
+130 * 1,27 = player tem 1,65m de altura, entao usa tudo pra fazer a base do player...
+
+cd px = 1,27 cm real
+
+
+90px * 1,78cm = player tem 1,60m de altura  (base de net...)
+
+cd px = 1,78cm real
+
+
+
+
+Velocidade humana > 5km/h == 1,38888m/s   == 0,79px/s
+
+
+
+
+
+ajuda desenho corpos humanos
+http://www.desenhefacil.com.br/aula-7-o-padrao-da-figura-humana/
